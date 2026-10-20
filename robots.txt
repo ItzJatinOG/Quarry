@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://itzjatinog.github.io/Quarry/sitemap.xml
